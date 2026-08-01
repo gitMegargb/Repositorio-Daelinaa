@@ -6,4 +6,4 @@ for letra in palabra:
     if letra == "a":
         contador += 1
 
-        print("La Letra 'a' aparece", contador, "veces. ")
+print("La Letra 'a' aparece", contador, "veces. ")
